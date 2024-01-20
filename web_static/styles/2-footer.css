@@ -3,4 +3,7 @@ footer {
     height: 60px;
     width: 80%;
     justify-content: center;
+    bottom: 0;
+    align-items: center;
+    position: absolute;
 }
